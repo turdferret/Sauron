@@ -45,8 +45,11 @@ or
     screen -dm -S {name} python3.8 /{path to directory}/Sauron/Sauron/Sauron.py
 
 Default Options:
+
     q/Q Quit at any time
+
     l/L Log Out and return to the Log In Menu.
+
     m/M Return to the Main Menu.
 
 Once started first thing will be done is either creating/confirming password.
@@ -58,10 +61,12 @@ At the Main Menu you can select from 1 of the 4 Modes.
 1: Add File
     Here is where you will give Sauron the information that is required for your program to run.
     ![Adding_File](https://user-images.githubusercontent.com/74060559/99045064-a9d4af00-2588-11eb-850d-83658269db09.png)
+ 
     Things that Sauron Requires.
         1: File Path
         2: Name of the program
         3: Python version to run the program. Works with any python.
+    
     Optional Things that Sauron Needs but does not Require.
         1: Credentials if your program at start up require the user to input some information.
         2: System Arguments
