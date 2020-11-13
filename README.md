@@ -22,23 +22,26 @@ Requirements:
 Python3.8.3 +
 
 Screen
-    To install Screen.
+    To install Screen. Then follow instructions if errors or type y.
+    
         sudo apt-get install screen
-    Then follow instructions if errors or type y.
 
 getpass
-    To install getpass.
+    To install getpass. Then follow instructions if errors or type y.
+
         python3.8 -m pip install getpass
-    Then follow instructions if errors or type y.
+
 
 pycrypto
-    To install pycrypto.
-        python3.8 -m pip install pycrypto
-    Then follow instructions if errors or type y.
+    To install pycrypto. Then follow instructions if errors or type y.
+ 
+        python3.8 -m pip install pycrypt
 
 To Start Sauron:
+
     python3.8 /{path to directory}/Sauron/Sauron/Sauron.py
 or
+
     screen -dm -S {name} python3.8 /{path to directory}/Sauron/Sauron/Sauron.py
 
 Default Options:
