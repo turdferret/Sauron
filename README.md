@@ -60,11 +60,11 @@ Once started first thing will be done is either creating/confirming password.
 ![First_Run](https://user-images.githubusercontent.com/74060559/99044754-2e72fd80-2588-11eb-8fa0-1ee63bcba699.png)
 
 At the Main Menu you can select from 1 of the 4 Modes.
-
+![Main_Menu](https://user-images.githubusercontent.com/74060559/99045041-9de8ed00-2588-11eb-88aa-d987ac95d9fa.png)
 
 1: Add File
     Here is where you will give Sauron the information that is required for your program to run.
-    
+    ![Adding_File](https://user-images.githubusercontent.com/74060559/99045064-a9d4af00-2588-11eb-850d-83658269db09.png)
 
     Things that Sauron Requires.
         1: File Path
@@ -77,15 +77,15 @@ At the Main Menu you can select from 1 of the 4 Modes.
 
 2: Remove File
     Use this option to have Sauron stop monitoring our program.
-    
+    ![Revome_File](https://user-images.githubusercontent.com/74060559/99045092-b5c07100-2588-11eb-9a44-b2e5ff50a3f6.png)
 
 3: Stop Program
     Use this option to have Sauron to stop the program and not let it run till you call for it to be restarted.
-    
+    ![Stop_Program](https://user-images.githubusercontent.com/74060559/99045121-c40e8d00-2588-11eb-9433-5ad94b3c4f4c.png)
 
 4: Start/Restart Program
     Use this option to have Sauron either Restart or Start a program.
-    
+    ![Restart_Program](https://user-images.githubusercontent.com/74060559/99045142-ccff5e80-2588-11eb-921c-e6b07a474aa6.png)
 
 If at any time an error occurs. The boarder will start blinking Red. The log file is stored /{path to directory}/Sauron/Sauron/Logs/.
 
