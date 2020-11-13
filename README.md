@@ -2,9 +2,9 @@ About Sauron
 
 A Linux Based Automated Program Launcher.
 
-    This is a Linux based python3.8 program that will automate the process of your python programs running. It will take any 
-python based program that has to stay running and will monitor that process id. Will detect if the process died off and will automatically 
-spin that program back up in Screen. If your program takes user input at start up for ex: username password file place. Well just 
+    This is a Linux based python3.8 program that will automate the process of your python programs running. 
+It will take any python based program that has to stay running and will monitor that process id. Will detect if the process died off and will 
+automatically spin that program back up in Screen. If your program takes user input at start up for ex: username password file place. Well just 
 read the Credentials_Start.txt and add the following code to your code and Sauron will handle the rest. By finding a random directory that 
 the user is allowed to write to and pass that argument to your program at the start. Then the code you added will then create a FIFO to 
 where Sauron will pass the credentials. Then the FIFO is deleted and your program continues on as normal. If your program requires system 
