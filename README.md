@@ -57,7 +57,7 @@ Default Options:
     m/M Return to the Main Menu.
 
 Once started first thing will be done is either creating/confirming password.
-
+![First_Run](https://user-images.githubusercontent.com/74060559/99044754-2e72fd80-2588-11eb-8fa0-1ee63bcba699.png)
 
 At the Main Menu you can select from 1 of the 4 Modes.
 
